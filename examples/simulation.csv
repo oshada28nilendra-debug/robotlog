@@ -1,0 +1,13 @@
+timestamp_s,joint,commanded,measured
+0,shoulder,0,0
+0,elbow,0,0
+0.1,shoulder,10,11
+0.1,elbow,10,10
+0.2,shoulder,20,28
+0.2,elbow,20,20
+0.3,shoulder,95,93
+0.4,shoulder,30,30
+0.5,shoulder,20,20
+0.5,elbow,30,30
+0.6,shoulder,10,10
+0.6,elbow,20,20

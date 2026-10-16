@@ -1,0 +1,1 @@
+{"description":"Hand-authored synthetic simulation, not hardware measurements. Four seeded event labels, including two different limit events at the same sample.","events":[["tracking_error","shoulder",0.2],["commanded_limit","shoulder",0.3],["measured_limit","shoulder",0.3],["missing_update","elbow",0.5]]}
